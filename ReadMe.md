@@ -28,5 +28,3 @@ Este projeto demonstra a implementação de um sistema de notificações em Swif
 
 * **Prioridade de Notificação:** Foi adicionada uma propriedade `prioridade` ao protocolo `Notificavel` e implementada nas structs de canais de notificação.
 * **Filtro de Canais:** Foi implementada uma função `filtrarCanais` que recebe um array de canais e um tipo específico de canal e retorna um novo array contendo apenas os canais do tipo especificado.
-
-## Estrutura do Projeto
